@@ -11,6 +11,8 @@
   "facebook_url": "#",
   "linkedin_url": "#",
   "copyright_year": "2026",
+  "team_intro": "Echipă mare de kinetoterapeuți și fizioterapeuți, plus parte de psihopedagogie și logopedie. Lucrăm cu bebeluși, copii și adulți — afecțiuni ortopedice, neurologice, post-traumatice, plus tratament scolioze prin metoda Schroth.",
+  "schedule_html": "<dl>\n              <dt>Luni – Vineri</dt><dd>Programări telefonic / WhatsApp</dd>\n              <dt>Sâmbătă</dt><dd>Doar cu programare</dd>\n              <dt>Duminică</dt><dd>Închis</dd>\n            </dl>",
   "brand_name": "Aprophysio",
   "logo_path": "img/brand-logo.png",
   "preview_image_path": "img/brand-preview.png",
